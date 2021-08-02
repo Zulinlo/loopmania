@@ -11,8 +11,8 @@ A fully interactive game featuring you, as the character who runs along a path a
 - A shop
 - Skills
 
-![The world](https://github.com/Zulinlo/loopmania/tree/main/src/images/world.PNG?raw=true)
-![The world](https://github.com/Zulinlo/loopmania/tree/main/src/images/battle.PNG?raw=true)
+![Battle](https://github.com/Zulinlo/loopmania/blob/main/src/images/battle.png?raw=true)
+![World](https://github.com/Zulinlo/loopmania/tree/main/src/images/world.PNG?raw=true)
 
 
 ## Getting Started

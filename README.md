@@ -1,19 +1,23 @@
 # Loop Mania
 
-An innteractive RPG built with JavaFX.
+An interactive RPG built with JavaFX.
 
 ## Description
 
-A fully interactive game featuring you, as the character who runs along a path and encounters a variety of enemies and bosses who also receive support, in a turn-based battle. Features include:
+A fully interactive game featuring you, as the character who runs along a path and encounters a variety of enemies and bosses, in a turn-based battle system.
+
+Features include:
 - Different gamemodes
 - Placing buildings from obtainable cards
 - Rare items
 - A shop
 - Skills
 
-![Battle](https://github.com/Zulinlo/loopmania/blob/main/src/images/battle.png?raw=true)
-![World](https://github.com/Zulinlo/loopmania/tree/main/src/images/world.PNG?raw=true)
+### Main World
+<img src="https://github.com/Zulinlo/loopmania/blob/main/src/images/world.png" height="500" />
 
+### Battle
+<img src="https://github.com/Zulinlo/loopmania/blob/main/src/images/battle.png" height="500" />
 
 ## Getting Started
 
